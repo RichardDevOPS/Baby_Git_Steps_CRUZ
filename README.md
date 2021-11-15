@@ -44,3 +44,6 @@ Mise à jour du Readme
 ###5eme Commit
 Création du fichier poneys.txt
 
+###6eme Commit
+fix(__script__.py) Ajout d'une ligne
+
