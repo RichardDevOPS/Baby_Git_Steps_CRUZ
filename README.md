@@ -17,6 +17,8 @@
 ### Présentation
 
 Je suis Richard
+![rick](rick.png)
+
 | Entreprise   |  Poste    |  Année |
 |----------|:-------------:|------:|
 | Willemse France |  admin sys et réseau | 2015 |
@@ -54,3 +56,6 @@ fix(__script__.py) modif ligne maPremiereFusion
 
 ### 8eme Commit
 Fix(Readme.md) Titres non affichés correctement
+
+### 9eme Commit
+Ajout de la photo Rick et création dossier captures
