@@ -60,5 +60,11 @@ Fix(Readme.md) Titres non affichés correctement
 ### 9eme Commit
 Ajout de la photo Rick et création dossier captures
 
+### 10eme Commit 
+Readme.md de richard màj par zoubida
+
+### 11eme Commit
+Ajout capt-3.c à Capture par Zoubida 
+
 ## Témoignage dans Présentation
 Best Rechard I've ever seen !
