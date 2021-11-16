@@ -66,9 +66,5 @@ Readme.md de richard màj par zoubida
 ### 11eme Commit
 Ajout capt-3.c à Capture par Zoubida 
 
-### 12eme Commit
-Zoubida a cassé poneys.txt et bien fait pour toi Richard CHEHHHHHH
-
 ## Témoignage dans Présentation
 Best Rechard I've ever seen !
-
